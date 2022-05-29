@@ -1,0 +1,27 @@
+.s-four {
+    background: #eff1f7;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    text-align: left;
+    padding: 80px 0;
+}
+
+.s-four__h1 {
+    color: #000000;
+    font-size: 38px;
+}
+
+.s-four__h5 {
+    max-width: 60ch;
+    text-align: left;
+    font-size: 16px;
+    color: #9e9aa7;
+    padding: 10px;
+    margin-bottom: 100px;
+}
+
+.s-four__img {
+    float: right;
+    position: relative;
+}

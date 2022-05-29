@@ -1,0 +1,30 @@
+.pip {
+    background: #1a1a1a;
+    background-size: auto;
+    background-position: center center;
+    background-repeat: no-repeat;
+    text-align: center;
+    padding: 100px 0;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+.pip__graph {
+    float: left;
+    padding-right: 40px;
+    position: relative;
+}
+
+.pip__h5 {
+    color: #9e9aa7;
+    font-size: 16px;
+    text-align: start;
+    margin-right: 30px;
+    padding-left: 30px;
+}
+
+.pip__h1 {
+    color: #ffffff;
+    margin-bottom: 20px;
+}
